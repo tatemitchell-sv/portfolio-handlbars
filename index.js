@@ -11,7 +11,7 @@ app.set('view engine', 'hbs');
 
 app.engine('hbs', handlebars.engine({
 layoutsDir: __dirname + '/views/layouts', 
-extname: 'hbs', 
+extname: 'hbs',
 defaultLayout: 'planB', 
 partialsDir: __dirname + '/views/partials/',
 }));
