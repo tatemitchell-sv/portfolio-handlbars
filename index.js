@@ -25,6 +25,10 @@ fakeApi = () => {
         lane: 'midlaner'
       },
       {
+        name: 'Katarina',
+        lane: 'midlaner'
+      },
+      {
         name: 'Jayce',
         lane: 'toplaner'
       },
